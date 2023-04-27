@@ -5,10 +5,11 @@ body{
     background-color: rgb(247, 237, 219);
 }
 .container{
-    width: 800px;
+    width: 700px;
+    height: 500px;
     background-color: #0d5c63;
     margin-left: 450px;
-    margin-top: 300px;
+    margin-top: 100px;
     border-radius: 10px;
 }
 h2 {
@@ -54,6 +55,10 @@ input{
 #calculator:hover{
     background-color: burlywood;
 }
-#total{
+/* #total{
    text-align: center;
+} */
+span{
+  word-spacing: 15px;
+   margin-left: 580px;
 }
